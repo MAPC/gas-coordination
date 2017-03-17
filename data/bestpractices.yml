@@ -1,7 +1,7 @@
 - 
   section: "Set Foundation"
   description: >
-    To effectively coordinate, both gas companies and municipalities must have the appropriate structures in place to build upon and utilize. Based on feedback from municipalities, it is clear that gas company staffing and communication issues are a source of municipal frustration and impediment to coordination. Municipalities also have their own improvements on communication, to ensure that departments like Water and Sewer, which might be separate from Public Works, are effectively included in the coordination process with the gas company. Additionally, municipalities need to develop their own multi-year infrastructure plans and track completed work; without this information, gas companies have extremely limited ability to align their infrastructure plans with municipal work. Finally, municipalities could position themselves to more effectively use their own plan data and shared data from the gas company by leveraging existing technologies.  
+    To effectively coordinate, both gas companies and municipalities must have the appropriate structures in place to build upon and utilize. Feedback from municipalities shows that gas company staffing and communication issues are a source of municipal frustration and an impediment to coordination. Municipalities also need to improve communication to ensure that departments like Water and Sewer, which might be separate from Public Works, are effectively included in the coordination process with the gas company. Additionally, municipalities need to develop their own multi-year infrastructure plans and track completed work; without this information, gas companies have extremely limited ability to align their infrastructure plans with municipal work. Finally, municipalities could position themselves to more effectively use their own plan data and shared data from the gas company by leveraging existing technologies.  
   subsection: 
     -
       name: "Staffing & Communication"
@@ -21,19 +21,19 @@
         -
           best_practice: Regularly assess workload and efficacy of key representatives 
           background: >
-            Adjust staffing or workload in response. May involve muni surveys
+            
 
-            Municipalities reported delays with the gas companies that may be attributed to excessively large territories and workloads for key representatives. As coordination efforts increase, gas companies should evaluate if current staffing levels can support the necessary work.
+            Municipalities reported delays with the gas companies that may be attributed to excessively large territories and workloads for key representatives. As coordination efforts increase, gas companies should evaluate whether staffing levels effectively support the necessary work, and make adjustments if needed. 
         -
           best_practice: Incentivize key representatives to stay in position for more than one year
           background: >
             Municipalities cited high rates of staff turnover in key representative positions as a source of frustration and complication for their coordination efforts. Turnover makes it challenging to accumulate knowledge relevant to the municipality and build trust. 
 
-            Using strategies like bonuses, awards or internal recognition, may be useful ways to encourage representatives to stay for at least two construction seasons.
+            Using strategies like bonuses, awards, or internal recognition may be useful ways to encourage representatives to stay for at least two construction seasons.
         -
           best_practice: Implement a standard transition process for key representatives.
           background: >
-            Some turnover is inevitable. When that does occur, a company wide policy for managing the transition, including whether or not an in-person, phone, or email introduction is made and when, will help ensure continuity and minimize chances for municipal frustration and missed communication.
+            Some turnover is inevitable. When that does occur, a company-wide policy for managing the transition, including whether or not an in-person, phone, or email introduction is made and when, will help ensure continuity and minimize chances for municipal frustration and missed communication.
       municipalities: 
         -
           best_practice: "Establish policy to coordinate paving, water, and sewer infrastructure planning efforts internally."
@@ -46,13 +46,13 @@
         -
           best_practice: "Obtain contact information for gas company key representatives"
           background: >
-            This information should be requested if not already provided through through a website by gas company.
+            This information should be requested if not already provided through through a website by the gas company.
 
             Municipalities often utilize relationships with gas company staff in various departments. However, this can result in information getting siloed in just one department.  The gas companies key representatives will know how to move information around to the other parties in the gas company that may need the information. Driving communication through them will help maximize the chance that all relevant parties get information and updates.
         -
           best_practice: "Include requirement in paving contracts for minimum notice of schedule changes"
           background: >
-            Contract should require a minimum of two weeks notice for schedule changes. As more municipalities implement this, it will become the standard, rather than the exception for paving contractors. Columbia Gas has reported initial success with some of their municipalities using such contract language. Municipalities and gas companies reported that paving contractors routinely change schedules with little advanced notice. When schedules are moved earlier, gas companies cannot always adjust to survey and repair gas leaks, replace their leak-prone mains, or raise gas gates. This results in excess cost and missed opportunities to address leaks.
+            Contracts should require a minimum of two weeks notice for schedule changes. As more municipalities implement this, it will become the standard, rather than the exception for paving contractors. Columbia Gas has reported initial success with some of their municipalities using such contract language. Municipalities and gas companies reported that paving contractors routinely change schedules with little advanced notice. When schedules are moved earlier, gas companies cannot always adjust to survey and repair gas leaks, replace their leak-prone mains, or raise gas gates. This results in excess cost and missed opportunities to address leaks.
       both: 
         -
           best_practice: "Hold pre-construction season meeting"
@@ -61,7 +61,7 @@
             Introduce all participants in the coordination process for gas company and municipality
             Compare infrastructure plans and identify opportunities for aligning schedules
             Establish communication procedures for the construction season
-            Establish clarity on restoration, paving and inspection proceduresold in late February - This provides sufficient time for parties to update plans and allow times before construction season to accommodate changes in schedule. See Share & Strategize and Generate & Capture Savings for pre-construction season meeting details.
+            Establish clarity on restoration, paving and inspection procedures in late February - This provides sufficient time for parties to update plans and allow opportunities before construction season to accommodate changes in schedule. See Share & Strategize and Generate & Capture Savings for pre-construction season meeting details.
     -
       name: "Infrastructure Plans"
       municipalities:
@@ -93,7 +93,7 @@
         -
           best_practice: Coordinate requests for municipal data and sharing updates between departments.
           background: >
-            Coordination includes determining internal department needs for municipal plans and information and then assign responsibilities for data requests.
+            Coordination includes determining internal department needs for municipal plans and information and then assigning responsibilities for data requests.
 
             Municipalities reported instances of providing information to the gas company, but it appeared information was not appropriately shared with other groups. This led to duplicative data requests and information not being acted upon. 
         -
@@ -108,7 +108,7 @@
 
             GIS can act as a database to track municipal plans and completed projects, based on the street segments on which they occur. GIS also visualizes the plan in map form. This makes it easy to review location data for mistakes (such as repaving Main Street vs Main Terrace). And maps are useful for engaging the public and communicating plans. 
 
-            Additionally, GIS allows for efficient comparison of the municipality’s multi-year plans, as well as the gas company or other utilities. Through mapping and built-in analysis tool, GIS can identify areas of overlap between plans, even if they occur in different years. At a minimum, printing a paper map can make discussions with utilities more fruitful than trying to compare lists on a spreadsheet.
+            Additionally, GIS allows for efficient comparison of the municipality’s multi-year plans, as well as those of the gas company or other utilities. Through mapping and built-in analysis tools, GIS can identify areas of overlap between plans, even if they occur in different years. At a minimum, printing a paper map can make discussions with utilities more fruitful than trying to compare lists on a spreadsheet.
 
             GIS is commonly used by most municipalities in the study (92%). Unlike a standalone database, GIS has applications beyond roadwork coordination, making it a valuable acquisition for a municipality if it is not already in use. 
         -
@@ -118,9 +118,9 @@
         -
           best_practice: "Explore need for a data-base system, like COBUCS"
           background: >
-            Database software allows access to users in addition to the municipality, such as the gas company and other utilities. User's input planned projects according to address segments, and the database can automatically identify shared opportunities or conflicts. The database can also include rules that ensure format and quality of data. However, a database was only used by the City of Boston in this study.
+            Database software allows access to users in addition to the municipality, such as the gas company and other utilities. Users input planned projects according to address segments, and the database can automatically identify shared opportunities or conflicts. The database can also include rules that ensure format and quality of data. However, a database was only used by the City of Boston in this study.
 
-            The rarity of a database likely reflects the fact that 1) it is most beneficial in the municipalities with lots of projects and lots of parties to coordinate and 2) there is a substantial cost to developing or purchase a database service. 
+            The rarity of a database likely reflects the fact that 1) it is most beneficial in the municipalities with lots of projects and lots of parties to coordinate and 2) there is a substantial cost to developing or purchasing a database service. 
 
             Municipalities could evaluate a database as a longer term solution if it fits their needs and funding can be made available.
 - 
@@ -134,7 +134,7 @@
         -
           best_practice: "Request all years of all municipal infrastructure plans."
           background: >
-            Gas companies annually ask for paving plans from municipalities, but municipalities reported they are not usually asked for water and sewer plans. Also, some municipalities reported sharing only one year of plans because gas company did not ask for multiple years.
+            Gas companies annually ask for paving plans from municipalities, but municipalities reported they are not usually asked for water and sewer plans. Also, some municipalities reported sharing only one year of plans because the gas company did not ask for multiple years.
         -
           best_practice: Set reasonable deadline for receipt of municipal infrastructure plans. 
           background: >
@@ -146,7 +146,7 @@
         -
           best_practice: "Share map of municipal streets with existence of gas main and pipe material."
           background: >
-            The map should not include the level of detail necessary to locate the pipe in the street, pipe size, pressure or existence of other gas-system equipment. It is possible that such information could constitute Critical Energy Infrastructure Information (CEII) if shared for the entire municipality’s system. Providing such detail for the entire municipality could pose a security risk. In contrast, providing information on just the existence of pipe under a street and its material for the entire municipality’s system should not constitute CEII. Further, that data would suffice to be valuable for coordination, because municipalities can use it to identify 1) which of their projects that might encroach upon leak-prone pipe, forcing the gas company to replace it; and 2) which road segments are leak-prone and thus likely to be good sites of future coordination. Roughly half of municipalities interviewed requested such a map. See Case Study on City of Melrose to see how they are using this type of information.
+            The map should not include the level of detail necessary to locate the pipe in the street, pipe size, pressure or existence of other gas-system equipment. It is possible that such information could constitute Critical Energy Infrastructure Information (CEII) if shared for the entire municipality’s system. Providing such detail for the entire municipality could pose a security risk. In contrast, providing information on just the existence of pipe under a street and its material for the entire municipality’s system should not constitute CEII. Further, that data would suffice to be valuable for coordination because municipalities can use it to identify 1) which of their projects might encroach upon leak-prone pipe, forcing the gas company to replace it; and 2) which road segments are leak-prone and thus likely to be good sites of future coordination. Roughly half of municipalities interviewed requested such a map. See Case Study on City of Melrose to see how they are using this type of information.
         -
           best_practice: "For municipal engineering projects, share gas main location information."
           background: >
@@ -167,11 +167,11 @@
         -
           best_practice: Share any other “wish-list” information.
           background: >
-            If the municipality has other long-term infrastructure project goals, share this information may help the planning process for the gas company.
+            If the municipality has other long-term infrastructure project goals, sharing this information may help the planning process for the gas company.
         -
           best_practice: "Share information on planned new developments as soon as possible."
           background: >
-            New residential and commercial developments may require new gas mains and/or updates to existing gas mains servicing the area. The municipality should ensure that the gas company is aware as early as possible and municipality should request an affirmative decision on whether work on mains will be needed.
+            New residential and commercial developments may require new gas mains and/or updates to existing gas mains servicing the area. The municipality should ensure that the gas company is aware as early as possible. The municipality should also request an affirmative decision on whether work on mains will be needed.
         -
           best_practice: "Request gas main replacement plan."
           background: >
@@ -179,11 +179,11 @@
         -
           best_practice: Request map showing existence of gas main on streets and pipe material.
           background: >
-            Use this information to proactively identify 1) which of municipal projects might encroach upon leak-prone pipe, forcing the gas company to replace it; and 2) on which road segments will need pipe replaced eventually. This level of detail - simply showing whether the street has pipe and its material, but not where in the street pipe exits or other aspects of the system - should not constitute Critical Energy Infrastructure Information (CEII) but should be sufficient to benefit the coordination and planning process.
+            Use this information to proactively identify 1) which municipal projects might encroach upon leak-prone pipe, forcing the gas company to replace it; and 2) which road segments will need pipe replaced eventually. This level of detail - simply showing whether the street has pipe and its material, but not where in the street pipe exists or other aspects of the system - should not constitute Critical Energy Infrastructure Information (CEII) but should be sufficient to benefit the coordination and planning process.
         -
           best_practice: "For municipal engineering projects, request gas main location information."
           background: >
-            This information should have the level of detail necessary to locate the pipe in the street and determine its dimensions. This enhanced level of detail should not constitute CEII because it will only be shared for small segments of the system at a time. Use this information to proactively improve engineering designs and minimize the need for future change orders or in-field delays. However, remember that gas company data may not be entirely accurate, as the depth and location of pipes may have changed over time due to natural and man-made activities. Further, this information does not substitute for getting mark-outs from Dig Safe.
+            This information should have the level of detail necessary to locate the pipe in the street and determine its dimensions. This enhanced level of detail should not constitute CEII because it will only be shared for small segments of the system at a time. Use this information to proactively improve engineering designs and minimize the need for future change orders or in-field delays. However, remember that gas company data may not be entirely accurate, as the depth and location of pipes may have changed over time due to natural and human activities. Further, this information does not substitute for getting mark-outs from Dig Safe.
         -
           best_practice: "For gas company engineering projects, share water and sewer main location information."
           background: >
@@ -191,7 +191,7 @@
         -
           best_practice: Request gas leaks data.
           background: >
-            "Data is publicly available each year in each gas companies Annual Service Quality Report and could be shared directly by the gas company as part of the overall data sharing to help the municipality better understand its infrastructure."
+            Data is publicly available each year in each gas companies Annual Service Quality Report and could be shared directly by the gas company as part of the overall data sharing to help the municipality better understand its infrastructure.
         -
           best_practice: "Request and offer to share GIS files for infrastructure and plans."
           background: >
@@ -206,7 +206,7 @@
         -
           best_practice: "Agree on infrastructure schedule changes for years 1-3 that would benefit both parties."
           background: >
-            Planned work may overlap on the same street segment in the same or different years. For those in the same year, the projects schedules should be adjusted, if needed, to allow the gas company to perform its replacement before paving. For projects planned for different years, the parties can decide if one schedule can be adjusted so that the gas main replacement can occur before paving. As previously mentioned, schedule changes for municipal work beyond year one may be affected by unforeseen circumstances. However, making a commitment to synchronize work can help maximize the chance that the municipal plans come to fruition, for example, by providing additional rationale for allocating or retaining funding to that specific project.
+            Planned work may overlap on the same street segment in the same or different years. For those in the same year, the project schedules should be adjusted, if needed, to allow the gas company to perform its replacement before paving. For projects planned for different years, the parties can decide if one schedule can be adjusted so that the gas main replacement can occur before paving. As previously mentioned, schedule changes for municipal work beyond year one may be affected by unforeseen circumstances. However, making a commitment to synchronize work can help maximize the chance that the municipal plans come to fruition, for example, by providing additional rationale for allocating or retaining funding to that specific project.
         -
           best_practice: "Define projects that need sequencing for the upcoming construction season."
           background: >
@@ -215,7 +215,7 @@
         -
           best_practice: "Develop program for other utilities to participate in plan sharing and project synchronization efforts."
           background: >
-            Like the Cities of Worcester and Cambridge, including additional utilities in regular meetings to discuss and compare infrastructure plans can generate additional opportunities for synchronization. Both Cities have been able to find these shared opportunities through regular-in person meetings where utilities and municipalities bring plans and discuss opportunities to adjust schedules.
+            Like the Cities of Worcester and Cambridge, including additional utilities in regular meetings to discuss and compare infrastructure plans can generate additional opportunities for synchronization. Both Cities have been able to find these shared opportunities through regular in-person meetings where utilities and municipalities bring plans and discuss opportunities to adjust schedules.
 - 
   section: "Generate & Capture Savings"
   description: >
@@ -235,7 +235,7 @@
 
             A permanent pavement patch uses a higher grade of pavement than a temporary patch and the permanent patch covers more surface area because it must be “cut back” wider into existing pavement. As a result, the permanent patch costs substantially more than a temporary patch.
 
-            DTE-98 22 requires temporary patches be replaced after 2-5 days with a permanent patch, depending on season. One implication of this is that, in cases where the municipality is synchronizing a paving project with the gas company, the gas company would have to install a permanent patch only to have it removed shortly thereafter during municipal repaving.
+            DTE-98 22 requires temporary patches be replaced after 2-5 days with a permanent patch, depending on the season. One implication of this is that, in cases where the municipality is synchronizing a paving project with the gas company, the gas company would have to install a permanent patch only to have it removed shortly thereafter during municipal repaving.
 
             Due to trench settling, some municipalities prefer that final patching occurs after a settlement period of 30 or 60 days, or even an entire winter season. In cases where the municipality will not repave, the 2-5 day requirement for permanent patches means that the gas company will have to install an initial permanent patch, then return to replace or repair it later on.
 
@@ -243,20 +243,20 @@
         -
           best_practice: "Agree to changes to trench restoration that are cost saving or cost neutral."
           background: >
-            Gas companies and municipalities can make changes to the restoration standards, DTE 98-22, as long as both parties mutually agree to the changes and they are cost-saving or cost-neutral compared to the regulations.
+            Gas companies and municipalities can make changes to the restoration standards, DTE 98-22, as long as both parties mutually agree to the changes, and the changes are cost-saving or cost-neutral compared to the regulations.
 
             Some examples of cost-saving changes are
             Allow temporary patches to persist until municipal paving occurs
             Allow temporary patches to persist through the preferred settlement period
             Allow permanent patches to use the grind-and-inlay method rather than full depth cut-back
         -
-          best_practice: "Schedule an early- construction season check-in."
+          best_practice: "Schedule an early construction season check-in."
           background: >
             To ensure that as many synchronized projects as possible will get executed over the course of the construction season, the gas companies and municipality should schedule a check-in meeting roughly one month into the construction season. Both parties should evaluate whether coordination and communication commitments made during the pre-construction season meeting are being upheld and working effectively. Where there are deficiencies, this provides a mechanism to correct them early on. *Schedule for mid-May
         -
           best_practice: "Determine frequency of other meetings during construction season."
           background: >
-            The gas company and municipality should have some regular communication during the construction season. The frequency, method (e.g. in person meeting or phone call), and staff in attendance should be determined based on the amount and complexity of gas main replacement work. In person meetings may be particularly effective if other utilities are invited so that all parties can be updated. Having a regularly scheduled meeting can ensure municipalities have an opportunity to raise issue and get answers. This may be able to avoid or minimize the practice of pulling or withholding permits. Municipalities reported withholding permits because of non-responsiveness from the gas company. While an effective tool, it slows down gas main replacement work during a relatively short construction season.
+            The gas company and municipality should have some regular communication during the construction season. The frequency, method (e.g. in person meeting or phone call), and staff in attendance should be determined based on the amount and complexity of gas main replacement work. In person meetings may be particularly effective if other utilities are invited so that all parties can be updated. Having a regularly scheduled meeting can ensure municipalities have an opportunity to raise issues and get answers. This may avoid or minimize the practice of pulling or withholding permits. Municipalities reported withholding permits because of non-responsiveness from the gas company. While this can be an effective tool, it slows down gas main replacement work during a relatively short construction season.
       municipalities:
         -
           best_practice: "Consider not requiring curb-to-curb repaving during the street-cut moratorium."
@@ -271,7 +271,7 @@
           background: >
             To ensure gas company attendance at the meetings during the construction season, make permit applications conditional upon their attendance. For example, in the case that the municipality decides to have a monthly meeting, if the gas company does not attend the meeting at the beginning of June, its permits for the rest of June would be withheld until it meets with the municipality.
 
-            This will help increase the incentive for the gas company to attend the check-in meetings, and hopefully reduce the instances of withholding permits.
+            This will help increase the incentive for the gas company to attend the check-in meetings and hopefully reduce the instances of withholding permits.
     -
       name: "Capture Savings"
       both: 
@@ -285,9 +285,9 @@
         -
           best_practice: "Agree to share half of cost savings with municipality."
           background: >
-            For synchronized gas main replacement projects that generate cost savings due to coordination with municipal paving projects, agree that gas company will share half of savings with municipality.
+            For synchronized gas main replacement projects that generate cost savings due to coordination with municipal paving projects, agree that the gas company will share half of the savings with the municipality.
 
-            Doing so will be cost-saving from the standpoint of the DTE 98-22 regulations, because the gas company avoids some or all of the cost of final paving. If half of those savings are provided to the municipality, the gas company will still spend less than budgeted that season on the gas main replacement project.
+            Doing so will be cost-saving from the standpoint of the DTE 98-22 regulations because the gas company will avoid some or all of the cost of final paving. If half of those savings are provided to the municipality, the gas company will still spend less than budgeted that season on the gas main replacement project.
 
             Also, sharing the savings provides a strong incentive to municipalities to pursue and maintain coordination efforts.
         -
@@ -297,7 +297,7 @@
         -
           best_practice: "Institute mechanism to use shared savings for municipal infrastructure projects."
           background: >
-            The goal of this best practice is to ensure that money saved through coordination returns to the departments responsible for the coordination, like Public Works, Water and/or Sewer. Those departments can use the savings potentially to help fund its coordination efforts, such as paying for staff time to update infrastructure plans and input into GIS or to pave additional roads.
+            The goal of this best practice is to ensure that money saved through coordination returns to the departments responsible for the coordination, such as Public Works, Water and/or Sewer. Those departments can use the savings potentially to help fund its coordination efforts, such as paying for staff time to update infrastructure plans and input into GIS or to pave additional roads.
 
             By default, payments to the municipality will go into the general fund, eligible for allocation anywhere in the municipal budget. It is possible to create a special revenue fund so that payments are allocated to a specific department. A special revenue fund requires approval from the legislature. MAPC can help explore this if desired. In the interim, municipalities may want to seek informal agreement within the municipal government that the payments will be prioritized to be added to the appropriate department’s budget.
         -
@@ -311,7 +311,7 @@
 - 
   section: "Find Efficiencies"
   description: >
-    Across all gas main replacement and municipal paving projects, not just those that will be coordinated, there ways to improve efficiencies to save time and money for both parties. If new customers and developments can be better managed, it may avoid cuts into roads under moratorium or recently repaved, reducing frustration and avoiding paving costs. The municipal permit system can be upgrade dramatically to reduce gas company and municipality administrative time, through measures such as email submissions and batch invoicing or through online permitting and payment. Improvements to the mark-out process exist for both the gas company and municipality to reduce incidence of damaged infrastructure and work delays. And targeted changes to the trench repair and tree planting approaches can result in better roads and tree survival while minimizing cost.
+    Across all gas main replacement and municipal paving projects, not just those that will be coordinated, there ways to improve efficiencies to save time and money for both parties. Better management of new customers and developments may avoid cuts into roads under moratorium or recently repaved, reducing frustration and avoiding paving costs. The municipal permit system can be upgraded dramatically to reduce gas company and municipality administrative time, through measures such as email submissions and batch invoicing or through online permitting and payment. Improvements to the mark-out process exist for both the gas company and municipality to reduce incidence of damaged infrastructure and work delays. And targeted changes to the trench repair and tree planting approaches can result in better roads and tree survival while minimizing cost.
   subsection: 
     -
       name: "New Customers"
@@ -319,15 +319,15 @@
         - 
           best_practice: "Do not direct-mail advertise to customers on roads under a street-cut moratorium."
           background: >
-            Where possible, gas companies should avoid actively recruiting new customers when their road is under a street cut-moratorium. Doing so can place the resident or business in conflict with the municipality, which has to refuse their request for installation of a new service. If the municipality acquiesces, then it results in a patch in an otherwise newly paved road. 
+            Where possible, gas companies should avoid actively recruiting new customers when their road is under a street-cut moratorium. Doing so can place the resident or business in conflict with the municipality, which has to refuse their request for installation of a new service. If the municipality acquiesces, then it results in a patch in an otherwise newly paved road. 
 
             General marketing through web, online, radio, etc. cannot be expected to be targeted based on address, but the gas companies should be able to easily exclude addresses from direct-mail campaigns. Of course, this is contingent upon municipalities providing those addresses in their street-cut moratorium lists.
         -
           best_practice: "Identify ways to recruit new customers on roads before a street-cut moratorium starts."
           background: >
-            The gas company should focus efforts on recruit new customers before a street get paved and is under a street-cut moratorium. This will be challenging, depending on how much lead time the municipality can provide the gas company on its plans for paving. 
+            The gas company should focus efforts on recruiting new customers before a street get paved and is under a street-cut moratorium. This will be challenging, depending on how much lead time the municipality can provide the gas company on its plans for paving. 
 
-            Within this context, providing an additional financial incentives on gas equipment to customers who can convert before the moratorium begins may help.
+            Within this context, providing any additional financial incentives on gas equipment to customers who can convert before the moratorium begins may help.
       municipalities: 
         -
           best_practice: "Include address information in street-cut moratorium list."
@@ -336,7 +336,7 @@
         -
           best_practice: "Notify residents of opportunity to convert on roads that may be paved."
           background: >
-            Notifying residents of paving and infrastructure plans can be a useful service to set expectations and keep the community informed. The plans should be accompanied with a notice about the impending street-cut moratorium, to encourage conversions to gas before paving. At the same time, the plans should make clear that the plan shows priorities and it is subject to change.
+            Notifying residents of paving and infrastructure plans can be a useful service to set expectations and keep the community informed. The plans should be accompanied with a notice about the impending street-cut moratorium to encourage conversions to gas before paving. At the same time, the plans should make clear that they show priorities and are subject to change.
 
             Making a map public on the municipality’s website will likely be much less time intensive than trying to notify only the residents on specific street segments.
     -
@@ -345,17 +345,17 @@
         -
           best_practice: "Process permits at least two weeks before the start of construction season."
           background: >
-            Allow gas company to start work on the first day of the construction season, so that they can take full advantage of the short construction season to replace leak-prone pipe.
+            Allow the gas company to start work on the first day of the construction season, so that they can take full advantage of the short construction season to replace leak-prone pipe.
         -
           best_practice: "Implement batch payments or electronic payment for permits."
           background: >
-            Processing paper checks is a time and resource intensive for municipalities, as well as the gas company. A few municipalities have chosen to invoice the gas company once or twice a year for all permit applications. This has reduced administrative time dramatically without the need for any new payment or technology systems. 
+            Processing paper checks is time- and resource-intensive for municipalities, as well as the gas company. A few municipalities have chosen to invoice the gas company once or twice a year for all permit applications. This has reduced administrative time dramatically without the need for any new payment or technology systems. 
 
             Longer term, implementing electronic payments would also streamline the payment process. It may require funding to acquire and support the software to manage the payments.
         -
           best_practice: "Implement email or online permit application process."
           background: >
-            The majority of permit applications are currently done on paper and must be hand-delivered or mailed in. Simply turning the application into a PDF document that can be filled in electronically then emailed to the municipality can substantially reduce the administrative burden for the gas company. If using PDF, create a fillable form, so that a user can type in their responses. Otherwise, the user must print it out, handwrite answers in, scan and email it back, which is not nearly as convenient.
+            The majority of permit applications are currently done on paper and must be hand-delivered or mailed in. Simply turning the application into a PDF document that can be filled in electronically then emailed to the municipality can substantially reduce the administrative burden for the gas company. If using a PDF, create a fillable form so that a user can type in responses. Otherwise, the user must print it out, handwrite answers in, then scan and email it back, which is not nearly as convenient.
 
             A few municipalities are currently using online permitting. This can generate efficiencies for the municipality too. Submission rules can ensure all necessary data is entered, drop-down lists can allow only valid road names and addresses, and the data will all be stored in a centralized location which facilitates searching and reporting. Additionally, the review and approval process can happen within the system, rather than requiring tracking separate files or pieces of paper.
 
@@ -366,20 +366,20 @@
         -
           best_practice: "Mark out abandoned gas mains."
           background: >
-            Municipalities frequently reported issues with abandoned gas mains during excavations. These are generally not marked out during Dig Safe. It poses a challenge and a safety risk. Municipalities will likely hand-excavate around the first main they find, and use the backhoe for the rest of the excavation. Not infrequently, that first main is actually an abandoned main. As a result, the municipality is then much more likely to hit and puncture the live active main later on. 
+            Municipalities frequently reported issues with abandoned gas mains during excavations. These are generally not marked out during Dig Safe, posing a challenge and a safety risk. Municipalities will likely hand-excavate around the first main they find, and use the backhoe for the rest of the excavation. Not infrequently, that first main is actually an abandoned main. As a result, the municipality is then much more likely to hit and puncture the live active main later on. 
 
-            Where gas company records show abandoned main, it should be included in the Dig Safe mark-out. Moving forward, gas companies should track the location of abandoned main so that they can mark it out in the future.
+            Where gas company records show an abandoned main, it should be included in the Dig Safe mark-out. Moving forward, gas companies should track the location of an abandoned main so that they can mark it out in the future.
       municipalities: 
         -
           best_practice: "Clarify with gas company if and when it will mark out abandoned mains."
           background: >
-            The municipality should seek to have the gas company mark out abandoned mains when its records indicate their presence. Through discussion with the gas company, confirm whether this is possible and be clear how the presence of abandoned main will be communicated.
+            The municipality should seek to have the gas company mark out abandoned mains when its records indicate their presence. Through discussion with the gas company, confirm whether this is possible and be clear how the presence of an abandoned main will be communicated.
         -
           best_practice: "Report errors with mark-outs using Dig Safe form."
           background: >
             Gas company records are not always accurate. Some of the pipe is over 60 years old, and records may have been lost, abandoned pipe not tracked, or soil conditions have changed the depth and location of the main. 
 
-            If and when municipalities discover errors with mark-outs, it should use the Dig Safe report form so that the gas company can be notified of issues with its data or identify the source of mark-out errors.
+            If and when municipalities discover errors with mark-outs, they should use the Dig Safe report form so that the gas company can be notified of issues with its data or identify the source of mark-out errors.
         -
           best_practice: "Call Dig Safe before excavating for municipal projects."
           background: >
@@ -388,9 +388,9 @@
       name: "Trenches & Paving"
       gas_companies: 
         -
-          best_practice: "Explore ways to ensure sufficient to move gas gates."
+          best_practice: "Explore ways to ensure sufficient time to move gas gates."
           background: >
-            Ideally, with improved notice by paving contractors of schedule changes, there will be fewer instances where union labor is unavailable. But in the interim or when notification is short, consider options to improve response rate. This could include having the option to let qualified outside contractors move the gates or hiring additional union contractors. In either event, the goal is to avoid the cost and disruption of having to excavate and raise them after paving. 
+            Ideally, with improved notice by paving contractors of schedule changes, there will be fewer instances where union labor is unavailable. In the interim or when notification is short, consider options to improve response rate. This could include having the option to let qualified outside contractors move the gates or hiring additional union contractors. In either event, the goal is to avoid the cost and disruption of having to excavate and raise them after paving. 
         -
           best_practice: "Explore use of a soil compaction meter to improve quality of trench compaction"
           background: >
@@ -428,7 +428,7 @@
         -
           best_practice: "Require that an arborist or tree contractor check soil in tree pits for the presence of natural gas."
           background: >
-            Natural gas in soil forces out oxygen, vital for the roots. When planting new street trees or replacing dead trees, it is important to check for the presence of gas in the air below ground. If gas exists, it may damage or kill the new tree.
+            Natural gas in soil forces out oxygen, which is vital for the roots. When planting new street trees or replacing dead trees, it is important to check for the presence of gas in the air below ground. If gas exists, it may damage or kill the new tree.
 
             Municipalities could purchase a Combustible Gas Indicator used to check for gas when planning street tree plantings.
 
