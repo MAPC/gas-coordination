@@ -407,7 +407,7 @@
             For both leak repairs and gas main replacements, put plastic ownership tags in the patch. This will avoid future confusion about the responsibility for inspection and repair of failed patches.
       municipalities: 
         -
-          best_practice: "Request data on frequency and result of paving patch inspections."
+          best_practice: "   Request data on frequency and result of paving patch inspections."
           background: >
             Gas companies reported actively tracking their inspections and results, despite most municipalities reporting the perception that inspections hardly happen at all. 
 
