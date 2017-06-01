@@ -2,7 +2,14 @@
 
 Story, how-to guides, and case studies to help municipalities and gas utilities coordinate paving and street repair, to fix aging infrastructure and save money while doing it.
 
+## Development
+`bundle install`
+`middleman serve`
 
+## Deployment
+`git push origin master`
+
+Deployments are managed through Travis CI Webhooks. 
 
 ### Adding data and content
 
